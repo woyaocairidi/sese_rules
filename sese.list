@@ -10,6 +10,9 @@ DOMAIN,akuma-trstin.mushroomtrack.com
 DOMAIN,v16cdn.snmovie.com
 DOMAIN,upload18.cc
 
+# SeSe DOMAIN-SUFFIX
+DOMAIN-SUFFIX,sukebei.nyaa.si
+
 # SeSe Keyword
 DOMAIN-KEYWORD,jable
 DOMAIN-KEYWORD,av
